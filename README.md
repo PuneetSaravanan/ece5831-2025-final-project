@@ -302,12 +302,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **TensorFlow/Keras:** Deep learning framework
 - Inspiration from various audio classification research papers
 
-## 📧 Contact
-
-For questions or feedback, please open an issue or contact:
-- **Email:** your.email@example.com
-- **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
 ---
 
 **⭐ If you find this project helpful, please consider giving it a star!**

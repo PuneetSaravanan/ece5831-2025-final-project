@@ -14,7 +14,7 @@ data:
   # Filter for animal sounds only
   filter_animal_sounds: true
   # Animal sound categories in ESC-50: dog, rooster, pig, cow, frog, cat, hen, insects, sheep, crow
-  animal_categories: ["dog", "rooster", "pig", "cow", "frog", "cat", "hen", "insects", "sheep", "crow"]
+  animal_categories: ["dog", "rooster", "pig", "cow", "frog", "hen", "cat", "insects", "sheep", "crow"]
   
   # Data splits
   train_split: 0.7

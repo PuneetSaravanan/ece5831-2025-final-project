@@ -16,11 +16,11 @@ cnn:
       activation: "relu"
       pool_size: [2, 2]
   dense_layers:
-    - units: 256
-      activation: "relu"
-      dropout: 0.5
     - units: 128
       activation: "relu"
+      dropout: 0.5
+    - units: 10
+      activation: "softmax"
       dropout: 0.3
 
 resnet:
